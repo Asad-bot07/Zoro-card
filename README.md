@@ -18,4 +18,4 @@ A clean and responsive character card of **Roronoa Zoro** built using HTML and C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zoro-card.git
+   git clone https://github.com/Asad-bot07/zoro-card.git
